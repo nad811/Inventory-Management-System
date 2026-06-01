@@ -15,13 +15,7 @@ A file-based Inventory Management System built using C programming language.
 - File Handling
 - Arrays
 - Functions
-
-## How to Run
-
-gcc main.c product.c file.c -o inventory
-
-./inventory
-
+- 
 ## What I Learned
 - File handling in C
 - Struct-based design
